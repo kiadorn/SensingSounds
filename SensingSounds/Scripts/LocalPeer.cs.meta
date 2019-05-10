@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7b4b70a256681054aa46750d386617cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - remotePlayerPrefab: {fileID: 8254724511921638825, guid: d3eb8c389415d8e42a959026b1cad81f,
+      type: 3}
+  - ManagerRunning: {fileID: 11400000, guid: c1ed07543f34930409a98a4081709a93, type: 2}
+  - DiscoveryTimer: {fileID: 11400000, guid: a853377f89096c94db85fdd32b7ce771, type: 2}
+  - IP: {fileID: 11400000, guid: 256fd2e25c496de46b2a6dcf0996c7bb, type: 2}
+  - GyroRotation: {fileID: 11400000, guid: d2947dbd1848f9b4cbd28fac635ad435, type: 2}
+  - GPSLocation: {fileID: 11400000, guid: c4f85d67b5d87ab48af7b372857d41ca, type: 2}
+  - CameraPosition: {fileID: 11400000, guid: 0094e88b1c2caa843aa212df528a55df, type: 2}
+  - CompassMagnetic: {fileID: 11400000, guid: f7ac82538279e374f8fbfc1f464e0134, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
